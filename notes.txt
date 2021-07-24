@@ -1,0 +1,24 @@
+****section 1 ****
+
+
+git clone https://github.com/darbyluv2code/fullstack-angular-and-springboot.git
+http://www.luv2code.com/download-full-stack-angular-and-springboot-pdf-slides
+
+****section 2 ****
+www.madewithangular.com - lists application in the real world made with angular.
+
+set up development tools - installation steps at below link
+https://github.com/darbyluv2code/fullstack-angular-and-springboot
+
+**** section 4 ****
+
+Run in powershell to compile typescript
+
+Set-ExecutionPolicy -ExecutionPolicy RemoteSigned
+
+www.typescriptlang.org
+
+**** section 5 ****
+
+tsc --target ES5 Customer.ts
+
